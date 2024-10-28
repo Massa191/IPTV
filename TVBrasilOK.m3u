@@ -1437,6 +1437,15 @@ https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/oyShsQU.png",AgitoMax
 https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8
 
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/Po8jJt4.png",TBO HD (Rede Brasil)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/dNy2G7h.png",Rede Sul
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/bcIpMWI.png",Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+
 #EXTINF:-1 group-title="Canais | INTERNACIONAL" tvg-logo="https://imgur.com/11aNWuU.png",Sic TV
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_3.m3u8?ManoTV
 
