@@ -1,4 +1,9 @@
 #EXTM3U
+############################################################################ Informações 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",30/10/2024
+
+############################################################################ Canais | ABERTO
 #EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",Globo RJ FHD
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 #EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",Globo SP SD
