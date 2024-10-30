@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",Globo RJ FHD
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD
 http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",Globo SP SD
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",Globo TV Santos
+#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo TV Santos
 http://15.235.15.230:14488/
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/zldYz3t.png",TV TEM SP SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV TEM SP SD
 http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://i.imgur.com/zldYz3t.png",TV TEM SP HD
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
